@@ -21,7 +21,7 @@ def selection_sort(numbers_list):
         numbers_list[min_idx], numbers_list[i] = numbers_list[i], numbers_list[min_idx]
 
 
-def selection_sort(numbers_list):
+def insertion_sort(numbers_list):
     n = len(numbers_list)
     for i in range(1, n):
         key = numbers_list[i]
