@@ -12,6 +12,14 @@ x   x
 x   x
 x   x
 xxxxx
+
+
+w = 5
+h = 3
+xxxxx
+x   x
+xxxxx
+
 """
 
 def straightLine(n):
