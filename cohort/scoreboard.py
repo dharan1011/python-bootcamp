@@ -69,5 +69,3 @@ class scoreboard:
     
     def change_over(self):
         self.over += 1
-
-
